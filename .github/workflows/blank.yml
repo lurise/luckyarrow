@@ -26,7 +26,7 @@ jobs:
       env: 
         PLUGIN_VERSION: 0.0.1
         PLUGIN_DESC: CI自动构建上传
-        PLUGIN_APPTOKEN: ${{ secrets.APPTOKEN }}
+        PLUGIN_APPTOKEN: 48b31221ce2f5921558b98e1466ec21b
         PLUGIN_BUILDUSER: ${{ github.actor }} 
         PLUGIN_EXPERIENCE: true 
         #PLUGIN_PREVIEW: true
