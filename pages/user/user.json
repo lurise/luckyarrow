@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "com-nav": "/pages/user/components/com-nav"
+  }
+}
