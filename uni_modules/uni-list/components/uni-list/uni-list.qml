@@ -1,0 +1,1 @@
+<view class="uni-list uni-border-top-bottom data-v-1d6c74a2"><block qq:if="{{border}}"><view class="uni-list--border-top data-v-1d6c74a2"></view></block><slot></slot><block qq:if="{{border}}"><view class="uni-list--border-bottom data-v-1d6c74a2"></view></block></view>

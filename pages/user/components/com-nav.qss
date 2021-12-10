@@ -1,0 +1,1 @@
+.com-nav{margin-top:20rpx;padding-top:20rpx;background:#fff;border-radius:20rpx}.com-nav .grid-item{display:flex;flex-direction:column;align-items:center}.com-nav .grid-item .item-icon{width:80rpx;height:80rpx;margin-bottom:12rpx}.com-nav .grid-item .item-text{font-size:25rpx;color:#666}

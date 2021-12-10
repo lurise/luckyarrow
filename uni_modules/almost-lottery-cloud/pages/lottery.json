@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "almost-lottery": "/uni_modules/almost-lottery-cloud/components/almost-lottery"
+  }
+}
